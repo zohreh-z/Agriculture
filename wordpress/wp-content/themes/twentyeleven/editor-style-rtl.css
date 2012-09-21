@@ -1,0 +1,26 @@
+/*
+Theme Name: Twenty Eleven
+*/
+/*
+Used to style the TinyMCE editor.
+*/
+html .mceContentBody {
+	direction: rtl;
+	unicode-bidi: embed;
+	float: right;
+	max-width: 584px;
+	font-family: tahoma;
+}
+* {
+	font-family: Tahoma, Arial, sans-serif;
+	font-size: 12px;
+}
+ul, ol {
+	margin: 0 2.5em 1.625em 0;
+}
+blockquote {
+	font-style: normal;
+}
+table {
+	text-align: right;
+}
